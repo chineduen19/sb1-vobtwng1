@@ -1,0 +1,20 @@
+{
+  "navigation": {
+    "home": "Inicio",
+    "marketplace": "Mercado",
+    "program": "Programa Hisnak",
+    "dashboard": "Panel",
+    "login": "Iniciar Sesión",
+    "register": "Registrarse"
+  },
+  "marketplace": {
+    "title": "Mercado Hisnak",
+    "subtitle": "Cursos en línea y otros productos de afiliados",
+    "browse": "Explorar Mercado"
+  },
+  "program": {
+    "title": "Programa Hisnak",
+    "subtitle": "Todo sobre nuestro programa de redes de afiliados",
+    "learnMore": "Más Información"
+  }
+}

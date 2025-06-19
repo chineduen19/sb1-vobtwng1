@@ -1,0 +1,20 @@
+{
+  "navigation": {
+    "home": "Home",
+    "marketplace": "Marketplace",
+    "program": "Hisnak Program",
+    "dashboard": "Dashboard",
+    "login": "Login",
+    "register": "Register"
+  },
+  "marketplace": {
+    "title": "Hisnak Marketplace",
+    "subtitle": "Online courses and other affiliate products",
+    "browse": "Browse Marketplace"
+  },
+  "program": {
+    "title": "Hisnak Program",
+    "subtitle": "All about our affiliate networking program",
+    "learnMore": "Learn More"
+  }
+}
