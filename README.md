@@ -63,15 +63,12 @@ Hisnak is built to **lift millions out of poverty** by helping individuals learn
 Create a .env.local file in the root directory with the following:
 
 env
-Copy
-Edit
+
 NEXT_PUBLIC_STRIPE_PUBLISHABLE_KEY=your_stripe_public_key
 STRIPE_SECRET_KEY=your_stripe_secret_key
 NEXT_PUBLIC_API_URL=https://your-api-url.com
 🛠️ Getting Started
-bash
-Copy
-Edit
+
 # 1. Clone the repository
 git clone https://github.com/your-username/hisnakmarketplace1.git
 cd hisnakmarketplace1
